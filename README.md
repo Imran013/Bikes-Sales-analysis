@@ -42,7 +42,7 @@
 
 # ├── Bikes\_sales\_data.ipynb   # Main notebook with analysis
 
-# ├── Bike\_sales.xlsx          # Raw dataset (not included in repo)
+# ├── Bike\_sales.xlsx          # Raw dataset
 
 # └── README.md                # Project documentation
 
