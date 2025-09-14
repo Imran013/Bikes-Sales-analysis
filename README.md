@@ -82,7 +82,7 @@
 
 # ```bash
 
-# git clone https://github.com/your-username/bike-sales-analysis.git
+# git clone https://github.com/Imran013/bike-sales-analysis.git
 
 # cd bike-sales-analysis
 
